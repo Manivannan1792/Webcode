@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+  .center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+  #name {
+      margin-left: 200px;
+  }
+  h4{
+      margin-left: 200px;
+  }
+
+  h5{
+      background-color: rgb(61, 130, 139);
+      color:rgb(240, 232, 219);
+  }
